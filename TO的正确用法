@@ -12,7 +12,7 @@ Use Reflector: 在形式上与Local CQ一样都是CQCQCQ，不同的是，使用
 四、
 / 是一种特殊用法，先期没有DR模式的电台或者使用DV模式的时候，用来链接网关/中继/反射器。
 比如连接到BR2SY的U段中继，可以使用/BR2SY B，注意，包括空格必须是8位字符。  
-这个命令等效于BR2SYBL。
+这个命令等效于BR2SY BL。
 不同电台上，Reflector--Link to Reflector命令，使用以上两种链接格式之一。
 
 五、  
