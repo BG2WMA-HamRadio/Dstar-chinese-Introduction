@@ -6,14 +6,14 @@
 
 ## D-Star No.2  
 
-使用MMDVM的，电台要设置+/-0Mhz差频，MMDVM本质上是一个精简的中继+网关，没有差频就没有转发。
+使用Dongle的时候（尤其是Pi-Star)，电台要设置`+/-0Mhz`差频，多数Dongle本质上是一个精简的中继+网关，没有差频就没有转发。
 
 ## D-Star No.3  
 
 ircDDB.net的Dashboard，或者XLX反射器的D-Star Live页面没有显示我的呼号？  
   
- * 你用了MMDVM  
- * 你没有设置VIS  ON  
+ * 你用了某种版本的Dongle，经测试，部分Pi-Star不会像ircddb.net发送数据。  
+ * 你没有设置VIS  ON，解决办法请访问 http://ircddb.net/live-vis.html  我们将尽快将其翻译成中文。 
 
 
 ## BR2SY 中继台信息
