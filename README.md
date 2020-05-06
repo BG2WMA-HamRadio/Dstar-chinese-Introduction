@@ -13,7 +13,7 @@
 ircDDB.net的Dashboard，或者XLX反射器的D-Star Live页面没有显示我的呼号？  
   
  * 你用了某种版本的Dongle，经测试，部分Pi-Star不会像ircddb.net发送数据。  
- * 你没有设置VIS  ON，解决办法请访问 http://ircddb.net/live-vis.html  或者这里(网关/ircDDB_live_log.md)。 
+ * 你没有设置VIS  ON，解决办法请访问 http://ircddb.net/live-vis.html  或者[这里](网关/ircDDB_live_log.md)。 
 
 
 ## BR2SY 中继台信息
