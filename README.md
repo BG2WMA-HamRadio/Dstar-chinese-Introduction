@@ -10,7 +10,7 @@
 
 ## D-Star No.3  
 
-ircDDB.net的Dashboard上没有我？  
+ircDDB.net的Dashboard，或者XLX反射器的D-Star页眉没有显示我的呼号？  
   
  * 你用了MMDVM  
  * 你没有设置VIS  ON  
