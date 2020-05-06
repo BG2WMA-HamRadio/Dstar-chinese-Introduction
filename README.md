@@ -16,9 +16,9 @@ ircDDB.net的Dashboard上没有我？
  * 你没有设置VIS  ON  
 
 
-** BR2SY ircDDBGateway 和 XLX207已经正式运行，欢迎广大爱好者连接访问 
+** BR2SY ircDDBGateway 和 XLX207已经正式运行，欢迎广大爱好者连接访问 **
 
 |中继台呼号|中继台协议|下行频率|上行频率|差频|备注|
 |---|---|---|---|---|---|
-|**BR2SY|D-Star|439.700.000MHz|434.700.000MHz|-5MHz|---|
-|**BR2RSA|C4FM|439.525.000MHz|434.525.000MHz|-5MHz|---|
+|**BR2SY**|D-Star|439.700.000MHz|434.700.000MHz|-5MHz|---|
+|**BR2RSA**|C4FM|439.525.000MHz|434.525.000MHz|-5MHz|---|
