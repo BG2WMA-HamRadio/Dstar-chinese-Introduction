@@ -35,6 +35,8 @@ BRSY ircDDBGateway 连接方法：
 XLX207可以用REF/DCS/XRF/XLX任意一种协议连接。  
 目前XLX207反射器开启A-E模块，A模块互联，B/C模块D-STAR专用，D/E模块用于测试。
 
-XLX207反射器可以支持D-Star/C4FM(YSF)/DMR/P25/NXDN协议通联。
-XLX207不赞成业余无线电爱好者使用商业协议（DMR等协议）通联。
+XLX207反射器可以支持D-Star/C4FM(YSF)/DMR/P25/NXDN协议通联。  
+
+XLX207不赞成业余无线电爱好者使用商业协议（DMR等协议）通联。  
+
 XLX207不赞成业余无线电爱好者使用具有加密功能的P25协议通联。
