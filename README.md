@@ -25,7 +25,8 @@ ircDDB.net的Dashboard上没有我？
 
 ## BR2SY ircDDBGateway 和 XLX207已经正式运行，欢迎广大爱好者连接访问  
 
-BRSY ircDDBGateway 连接方法：
+BRSY ircDDBGateway 连接方法：  
+
 电台TO编写`BR2SY BL`或者 `/BR2SY B`，按PTT键一次，等待网关回馈。  
 收到回馈语音回馈 `Linking to BR2SY B`后将电台TO调整至`Reflector--USE Reflector`  
 按PTT键进行通联。
