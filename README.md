@@ -23,7 +23,7 @@ ircDDB.net的Dashboard，或者XLX反射器的D-Star Live页面没有显示我�
 |**BR2SY**|D-Star|439.700.000MHz|434.700.000MHz|-5MHz|---|
 |**BR2RSA**|C4FM|439.525.000MHz|434.525.000MHz|-5MHz|---|
 
-### [BR2SY 地理位置](https://aprs.fi/?call=BR2SY)
+### [BR2SY 地理位置](https://aprs.fi/?call=BR2SY-B)
 ## BR2SY ircDDBGateway 和 XLX207已经正式运行，欢迎广大爱好者连接访问  
 
 BRSY ircDDBGateway 连接方法：  
