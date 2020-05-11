@@ -1,7 +1,7 @@
 # Dstar-chinese-Introduction
 
 ## D-Star No.1  
-无论什么时候，注意你的To指向了正确目标，`Local CQ` `Gateway CQ` `Use Reflector`  `/` `U` `I` `E` 等都代表的是不同的指向。  
+无论什么时候，注意你的 `TO (UR/UrCall)` 指向了正确目标，`Local CQ` `Gateway CQ` `Use Reflector`  `/` `U` `I` `E` 等都代表的是不同的指向。  
 [具体含义在这里](./TO的正确用法.md)。
 
 ## D-Star No.2  
