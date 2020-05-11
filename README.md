@@ -12,7 +12,7 @@
 
 ircDDB.net的Dashboard，或者XLX反射器的D-Star Live页面没有显示我的呼号？  
   
- * 你用了某种版本的Dongle，经测试，部分Pi-Star不会像ircddb.net发送数据。  
+ * 你用了某种版本的Dongle，经测试，部分Pi-Star不会向ircddb.net发送数据。  
  * 你没有设置VIS  ON，解决办法请访问 http://ircddb.net/live-vis.html  或者[这里](网关/ircDDB_live_log.md)。 
 
 
@@ -39,6 +39,4 @@ XLX207可以用REF/DCS/XRF/XLX任意一种协议连接。
 
 XLX207反射器可以支持D-Star/C4FM(YSF)/DMR/P25/NXDN协议通联。  
 
-XLX207不赞成业余无线电爱好者使用商业协议（DMR等协议）通联。  
-
-XLX207不赞成业余无线电爱好者使用具有加密功能的P25协议通联。
+但目前，只有D-Star正式运行中。
