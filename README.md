@@ -2,7 +2,7 @@
 
 ## D-Star No.1  
 无论什么时候，注意你的To指向了正确目标，`Local CQ` `Gateway CQ` `Use Reflector`  `/` `U` `I` `E` 等都代表的是不同的指向。  
-确定自己的电台进行了正确的配置。
+[具体含义在这里](./TO的正确用法.md)。
 
 ## D-Star No.2  
 
