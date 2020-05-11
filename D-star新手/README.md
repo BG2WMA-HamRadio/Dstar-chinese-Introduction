@@ -1,6 +1,6 @@
 本文翻译自VK3ANZ著作的The Newbie's Guide to Using D-Star V2.0。  
 本文的翻译得到了原作者的许可。  
-在得到原作者和译者同意之前，请勿复制或引用本文全部或部分内容。  
+  
   
 ## [S0. 快速开始](./S0_Quick_Start_Guide.md)  
   
